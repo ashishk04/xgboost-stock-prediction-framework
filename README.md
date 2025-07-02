@@ -43,4 +43,9 @@ A general-purpose stock price forecasting tool using XGBoost. Upload any stock�
    * MAPE (Mean Absolute Percentage Error)
    * R² Score
    * All metrics are reported for both price and log returns, on test and forecast periods.
-     
+
+### 🖼️ Visualizations
+* Training and test data split with predictions
+* Actual vs. predicted prices for test and forecast periods
+* Combined view of end-of-training and forecast periods
+* Annotated plots for easy interpretation    
