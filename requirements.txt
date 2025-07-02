@@ -1,0 +1,7 @@
+yfinance==0.2.36
+pandas==2.1.4
+numpy==1.24.3
+scikit-learn==1.7.0
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3 
