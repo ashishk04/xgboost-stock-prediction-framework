@@ -49,3 +49,11 @@ A general-purpose stock price forecasting tool using XGBoost. Upload any stock�
 * Actual vs. predicted prices for test and forecast periods
 * Combined view of end-of-training and forecast periods
 * Annotated plots for easy interpretation    
+
+### 📝 Notes
+* This framework is intended for educational and research purposes.
+* For best results, use stocks with a long trading history (8+ years).
+* The model does not account for external factors (news, macroeconomics, etc.) and is based solely on historical price data.
+  
+### 👤 Author
+* Ashish Kumar
